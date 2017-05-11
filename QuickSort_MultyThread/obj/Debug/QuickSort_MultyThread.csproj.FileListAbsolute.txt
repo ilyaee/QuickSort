@@ -1,0 +1,6 @@
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\bin\Debug\QuickSort_MultyThread.exe.config
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\bin\Debug\QuickSort_MultyThread.exe
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\bin\Debug\QuickSort_MultyThread.pdb
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\obj\Debug\QuickSort_MultyThread.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\obj\Debug\QuickSort_MultyThread.exe
+C:\Users\Ilya\Desktop\Education\QuickSort_MultyThread\QuickSort_MultyThread\obj\Debug\QuickSort_MultyThread.pdb
